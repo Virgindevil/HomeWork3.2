@@ -5,3 +5,10 @@ C:\Users\Virgin\source\repos\Homework3.2\Homework3.2\obj\Debug\Homework3.2.cspro
 C:\Users\Virgin\source\repos\Homework3.2\Homework3.2\obj\Debug\Homework3.2.csproj.CoreCompileInputs.cache
 C:\Users\Virgin\source\repos\Homework3.2\Homework3.2\obj\Debug\Homework3.2.exe
 C:\Users\Virgin\source\repos\Homework3.2\Homework3.2\obj\Debug\Homework3.2.pdb
+C:\Users\Virgin\Downloads\Homework3.2-main\Homework3.2-main\Homework3.2\bin\Debug\Homework3.2.exe.config
+C:\Users\Virgin\Downloads\Homework3.2-main\Homework3.2-main\Homework3.2\bin\Debug\Homework3.2.exe
+C:\Users\Virgin\Downloads\Homework3.2-main\Homework3.2-main\Homework3.2\bin\Debug\Homework3.2.pdb
+C:\Users\Virgin\Downloads\Homework3.2-main\Homework3.2-main\Homework3.2\obj\Debug\Homework3.2.csproj.AssemblyReference.cache
+C:\Users\Virgin\Downloads\Homework3.2-main\Homework3.2-main\Homework3.2\obj\Debug\Homework3.2.csproj.CoreCompileInputs.cache
+C:\Users\Virgin\Downloads\Homework3.2-main\Homework3.2-main\Homework3.2\obj\Debug\Homework3.2.exe
+C:\Users\Virgin\Downloads\Homework3.2-main\Homework3.2-main\Homework3.2\obj\Debug\Homework3.2.pdb
